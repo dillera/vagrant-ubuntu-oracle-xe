@@ -1,4 +1,4 @@
-node oracle {
+node packer-vmware {
   include oracle::server
   include oracle::swap
   include oracle::xe
